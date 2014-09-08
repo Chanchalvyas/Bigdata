@@ -2,7 +2,11 @@
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-
+/**
+ * 
+ * Writing to file 
+ *
+ */
 public class WriteToFile {
 	public static void main(String args[]) throws IOException{
 		try{
